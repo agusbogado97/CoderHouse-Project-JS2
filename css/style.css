@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.carrito-de-compras{
+    background-color: blue;
+    border: black ridge 1px;
+    border-radius: 15px;
+    padding: 3px 3px 3px 3px;
+}
