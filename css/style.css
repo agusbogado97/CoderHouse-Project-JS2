@@ -5,9 +5,9 @@
 }
 
 .carrito-de-compras{
-    background-color: blue;
+    background-color: #007bff;
+    padding: 5px 10px;
     border: black ridge 1px;
-    border-radius: 15px;
     padding: 3px 3px 3px 3px;
 }
 
